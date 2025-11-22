@@ -20,6 +20,6 @@ We experiment with the mathematical abilities of LLMs in regards to the function
 
 ## LLM Experiments
  - [k=4, GPT5](https://chatgpt.com/share/691e990c-3c30-8012-a5a9-122ef4b21600): provided with Miller reference, fails to solve
- - [k=1,2,3; gemini-2.5-pro](https://gist.github.com/epistemologist/3aefbcfa41021a16b0e1bcdab0f158b7): when provided with "Three-group numbers" as pdf, solves in one shot
- 
+ - [k=1,2,3; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/f6943544c3e53c0092c8552fb4a5088c): when provided with "Three-group numbers" as pdf, solves in one shot
+ - [k=4,5; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/b95142ade0f78f4ee0a0746e6462c9fb): while generated script covers a lot of cases, fails to provide general solution
 
