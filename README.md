@@ -22,4 +22,4 @@ We experiment with the mathematical abilities of LLMs in regards to the function
  - [k=4, GPT5](https://chatgpt.com/share/691e990c-3c30-8012-a5a9-122ef4b21600): provided with Miller reference, fails to solve
  - [k=1,2,3; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/f6943544c3e53c0092c8552fb4a5088c): when provided with "Three-group numbers" as pdf, solves in one shot
  - [k=4,5; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/b95142ade0f78f4ee0a0746e6462c9fb): while generated script covers a lot of cases, fails to provide general solution
-
+ - [k=6,7; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/bf463c2403b9f2351f0c98379a8b86ea): fails to provide general solution 
