@@ -17,7 +17,7 @@ We experiment with the mathematical abilities of LLMs in regards to the function
 ### Use of LLMs for Mathematical Conjectures
  - [original AlphaEvolve paper](https://arxiv.org/abs/2511.02864) demonstrating LLMs generating mathematical constructions
  - [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve): open source implementation of AlphaEvolve 
-
+ - [FunSearch](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/Mathematical-discoveries-from-program-search-with-large-language-models.pdf): predecessor of OpenEvolve, may be all that's needed for this specific problem
 ## LLM Experiments
  - [k=4, GPT5](https://chatgpt.com/share/691e990c-3c30-8012-a5a9-122ef4b21600): provided with Miller reference, fails to solve
  - [k=1,2,3; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/f6943544c3e53c0092c8552fb4a5088c): when provided with "Three-group numbers" as pdf, solves in one shot
