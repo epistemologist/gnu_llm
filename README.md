@@ -23,3 +23,4 @@ We experiment with the mathematical abilities of LLMs in regards to the function
  - [k=1,2,3; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/f6943544c3e53c0092c8552fb4a5088c): when provided with "Three-group numbers" as pdf, solves in one shot
  - [k=4,5; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/b95142ade0f78f4ee0a0746e6462c9fb): while generated script covers a lot of cases, fails to provide general solution
  - [k=6,7; gemini-2.5-pro one-shot](https://gist.github.com/epistemologist/bf463c2403b9f2351f0c98379a8b86ea): fails to provide general solution 
+ - [k=4,5; gemini-2.5-pro multi-shot](https://gist.github.com/epistemologist/ead45b13d81acbbb8137ff191dd52909): gives correct solution to values given in OEIS after **11 attempts**
